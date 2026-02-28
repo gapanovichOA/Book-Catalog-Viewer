@@ -40,12 +40,12 @@ This app implements the modern **Navigation 3** philosophy, treating navigation 
 
 ---
 
-## 🚀 How to Run the App
+## How to Run the App
 
 ### Installation
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/gapanovichOA/Book-Catalog-Viewer.git](https://github.com/gapanovichOA/Book-Catalog-Viewer.git)
+    git clone https://github.com/gapanovichOA/Book-Catalog-Viewer.git
     ```
 2.  **Open in Android Studio:**
     Allow Gradle to sync. If you see a `jvmDefault` error, ensure your Kotlin and AGP versions are aligned as per the `libs.versions.toml`.
@@ -54,7 +54,7 @@ This app implements the modern **Navigation 3** philosophy, treating navigation 
 
 ---
 
-## 🧪 Testing
+## Testing
 The project includes unit tests for the repository.
 
 * **MockK:** For mocking dependencies.
